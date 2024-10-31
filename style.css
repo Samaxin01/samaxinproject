@@ -1,0 +1,189 @@
+
+       
+       
+body {
+  background-color: rgb(255, 255, 255);  
+
+}
+h1{
+    margin-bottom: 1000px;
+  }  
+     
+ .headerimage {
+    size: 50px;
+    height: 100%;
+ } 
+ .image {
+    background-color: white;
+    width: 10%;
+    height: 10%;
+ }    
+ img {
+    width: 1226px;
+    height: 400px;
+ }
+ 
+ 
+
+ body
+ 
+ .first {
+   color: rgb(255, 255, 255);
+   font-style: normal;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+ }
+ 
+ .about {
+   color: yellow;
+ }
+
+ .red {
+   color: red;
+  
+ }
+
+.join {
+   color: red;
+}
+
+
+header {
+   background-color: red;
+}
+
+.write {
+  color: rgb(255, 255, 255);
+  background-size: 20%;
+  text-align: center  ;
+  
+}
+
+.rrr {
+  color: white;
+  position: absolute;
+    left: 0;
+    top: 20%;
+    left: 20px;
+    padding: 20px;
+    outline: 400px;
+    background-blend-mode: overlay;
+    background-size: 0cm;
+    
+    
+} 
+
+p {
+  color: rgb(255, 255, 255);
+}
+
+.sis {
+  color: rgb(206, 0, 0);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+}
+.image { 
+   
+  color: black;
+  
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 55px;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  background-color: rgb(255, 255, 255)
+}
+
+.more {
+  color: rgb(255, 0, 0);
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  display: flex; 
+  background-color: rgb(0, 0, 0);
+  display: flex;
+}
+
+.jij {
+  color: white;
+}
+
+.iij {
+  color: rgb(0, 0, 0);
+}
+
+.resize-image {
+  width: 50px;
+  height: 20px;
+}
+
+.foon {
+  width: 17cm;
+  height: 400px;
+  border-radius: 12px;
+  transition: 0.4s ease; 
+}
+
+.htt {
+  
+  position: absolute;
+  left: 20cm;
+  align-content: end;
+  background-color: rgb(0, 0, 0);
+}
+
+.image-row {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  transition: 0.4s ease;
+ 
+}
+
+.image-row img {
+  width: 20%; /* adjust the width to fit your needs */
+  height: auto;
+  margin: 10px; /* add some margin between images */
+  border-radius: 15px;
+  margin: right;  right;
+}
+
+nav {
+  ul{
+    list-style: none;
+  }
+
+}
+
+.ikk {
+  text-align: center;
+  
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  background-color: aqua;
+}
+
+.image5 {
+  width: 20%;
+  height: 50%;
+}
+
+nav {
+  
+}
+
+khkh {}
